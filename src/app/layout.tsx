@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Herat Shah | IT Project Coordinator",
+  title: "Herat Shah | Project Coordinator & Associate Project Manager",
   description:
-    "Portfolio of Herat Shah - Results-driven IT Project Coordinator with 4+ years of experience managing end-to-end software development projects.",
+    "Portfolio of Herat Shah - Results-driven IT Project Coordinator / Project Manager with 4+ years of experience.",
 };
 
 export default function RootLayout({
